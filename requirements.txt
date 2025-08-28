@@ -1,0 +1,21 @@
+# pip install "livekit-agents[deepgram]~=1.2"
+# pip install "livekit-agents[cartesia]~=1.2"
+# pip install "livekit-agents[google]~=1.2"
+
+# Core LiveKit Agent Framework
+livekit
+livekit-agents
+
+# Plugins (STT, TTS, LLM, Turn detection, etc.)
+livekit-plugins-deepgram
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-cartesia
+livekit-plugins-google
+livekit-plugins-turn-detector
+livekit-plugins-noise-cancellation
+
+# Utilities
+python-dotenv
+
+
